@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "smetana", "smetana.csproj", "{AE879E4B-988F-4BF6-9BCF-FBA143DFF816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testsmetana", "..\testsmetana\testsmetana.csproj", "{4C4D5EA8-28BD-407F-9F3B-158A78035456}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE879E4B-988F-4BF6-9BCF-FBA143DFF816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE879E4B-988F-4BF6-9BCF-FBA143DFF816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE879E4B-988F-4BF6-9BCF-FBA143DFF816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE879E4B-988F-4BF6-9BCF-FBA143DFF816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4D5EA8-28BD-407F-9F3B-158A78035456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4D5EA8-28BD-407F-9F3B-158A78035456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4D5EA8-28BD-407F-9F3B-158A78035456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4D5EA8-28BD-407F-9F3B-158A78035456}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CCCC2DF-8CBD-405C-BE42-E6CE0F2E2496}
+	EndGlobalSection
+EndGlobal
